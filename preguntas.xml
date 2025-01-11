@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="introduccion">
+        <es>LIBROS POPULARES</es>
+        <en>POPULAR BOOKS</en>
+        <por>POPULÃO LIBRES</por>
+    </item>
+    <item id="texto_intro">
+        <es>Los libros leidos mas populares</es>
+        <en>The books read most popularity</en>
+        <por>les libro mais leidos populares.</por>
+    </item>
+    <item id="beneficio">
+        <es>FECHAS Y HORARIOS DESTACADOS</es>
+        <en>DATES AND TIMES IMPORTANT</en>
+        <por>DATAS E HORÁRIOS DESTACAOS</por>
+    </item>
+    <item id="texto_benef">
+        <es>Lo mas importate del mes</es>
+        <en>The very important to month</en>
+        <por>Lo mais destaque do mes</por>
+    </item>
+    <item id="reglas">
+        <es>LOS MIENBROS MAS DESTACADOS</es>
+        <en>THE MENBERS VERY DESTACATED</en>
+        <por>LOS MIENBES MAIS DESTAQUE</por>
+    </item>
+</translation>

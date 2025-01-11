@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="introduccion">
+        <es>LIBROS POPULARES</es>
+        <en>POPULAR BOOKS</en>
+        <por>POPULÃO LIBRES</por>
+    </item>
+    <item id="texto_intro">
+        <es>Los libros mas importantes del mes dentro de las participantes del club.</es>
+        <en>The books very important for month in the menbers for club</en>
+        <por>stas e terá todo o gosto em trocar opiniões no nosso grupo.</por>
+    </item>
+    <item id="beneficio">
+        <es>AUTORES DESTACADOS</es>
+        <en>FEATURED AUTHORS</en>
+        <por>AUTORES EM DESTAQUE</por>
+    </item>
+    <item id="texto_benef">
+        <es>Los autores mas destacados del mes dentro de las participantes del club.</es>
+        <en>The authors very featured for month in the menbers for club</en>
+        <por>Autores em destaque em trocar opiniões no nosso grupo.</por>
+    </item>
+    <item id="reglas">
+        <es>SUGERENCIAS POR GENEROS</es>
+        <en>SUGGESTIONS BY GENRES</en>
+        <por>SUGEREAS EM GENEROES</por>
+    </item>
+    <item id="texto_reglas">
+        <es>Los generos mas leidos dentro de las participantes del club.</es>
+        <en>The genres very read for month in the menbers for club</en>
+        <por>Eu generoes em destaque em trocar opiniões no nosso grupo.</por>
+    </item>
+        <item id="ciencia">
+        <es>Ciencia Ficción</es>
+        <en>Sci-Fiction</en>
+        <por>Cience feiccione.</por>
+    </item>
+        <item id="drama">
+        <es>Drama</es>
+        <en>Dramatic</en>
+        <por>Dramatique</por>
+    </item>
+        <item id="politica">
+        <es>Politica</es>
+        <en>Politic</en>
+        <por>Politique</por>
+    </item>
+        <item id="belico">
+        <es>Belico</es>
+        <en>Belic</en>
+        <por>Belicoes</por>
+    </item>
+        <item id="poetico">
+        <es>Poetico</es>
+        <en>Poetic</en>
+        <por>Poetices</por>
+    </item>
+        <item id="historia">
+        <es>Historico</es>
+        <en>Historic</en>
+        <por>Historique</por>
+    </item>
+    <item id="libros">
+        <es>RESEÑAS DE MIENBROS</es>
+        <en>FEATURED BOOKS</en>
+        <por>LIVROS EM DESTAQUE</por>
+    </item>
+    <item id="texto_libro">
+        <es>A continuación las ultimas reseñas de mienbros del club:</es>
+        <en>Below are the latest reviews from club members:</en>
+        <por>Abaixo estão as últimas avaliações dos membros do clube:</por>
+    </item>
+</translation>

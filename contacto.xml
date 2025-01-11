@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="form">
+        <es>FORMULARIO DE CONTACTO</es>
+        <en>CONTACT FORM</en>
+        <por>FORMULÁRIO DE CONTACTO</por>
+    </item>
+    <item id="nombre">
+        <es>Nombre</es>
+        <en>Name</en>
+        <por>Nombrè</por>
+    </item>
+        <item id="enviar">
+        <es>Enviar</es>
+        <en>Send</en>
+        <por>Enviè</por>
+    </item>
+    <item id="redes">
+        <es>REDES SOCIALES</es>
+        <en>SOCIAL NETWORKS</en>
+        <por>REDES SOCIAIS</por>
+    </item>
+    <item id="texto_benef">
+        <es>Unete y siguenos en nuestras sociales:</es>
+        <en>Join and follow us on our social networks.</en>
+        <por>Participe e siga-nos nas nossas redes sociais.</por>
+    </item>
+    <item id="feedback">
+        <es>FEEDBACK</es>
+        <en>FEEDBACK</en>
+        <por>FEEDBACK</por>
+    </item>
+        <item id="comentario">
+        <es>Envie sus comentarios</es>
+        <en>Send your comments</en>
+        <por>Envie seus comentários</por>
+    </item>
+    <item id="atencion">
+        <es>ATENCION PERSONALIZADA</es>
+        <en>PERSONALIZED ATTENTION</en>
+        <por>ATENÇÃO PERSONALIZADA</por>
+    </item>
+        <item id="llamada">
+        <es>Llamada o Whatsapp</es>
+        <en>call or Whatsapp</en>
+        <por>Ligação ou Whatsapp</por>
+    </item>
+</translation>

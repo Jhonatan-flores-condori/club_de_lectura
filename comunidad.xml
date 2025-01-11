@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="introduccion">
+        <es>FOROS DE DISCUSION</es>
+        <en>DISCUSSION FORUMS</en>
+        <por>FÓRUNS DE DISCUSSÃO</por>
+    </item>
+    <item id="texto_intro">
+        <es>Los proximas foros de discución del club</es>
+        <en>The monthly schedule dscussion forums of the club</en>
+        <por>A programação forums de discussào do clube</por>
+    </item>
+    <item id="beneficio">
+        <es>ENCUENTROS LOCALES</es>
+        <en>LOCAL MEETINGS</en>
+        <por>REUNIÕES LOCAIS</por>
+    </item>
+    <item id="texto_benef">
+        <es>Los proximos encuentros locales del club:</es>
+        <en>The monthly local meethigs of the club:</en>
+        <por>A programaçãoreunioes locais das club:</por>
+    </item>
+    <item id="reglas">
+        <es>REDES SOCIALES DEL CLUB</es>
+        <en>CLUB SOCIAL NETWORKS</en>
+        <por>REDES SOCIAIS DO CLUBE</por>
+    </item>
+    <item id="texto_reglas">
+        <es>Siguenos y suscribete a las redes sociales del club:</es>
+        <en>Follow us and subscribe to the club's social networks:</en>
+        <por>Siga-nos e inscreva-se nas redes sociais do clube:</por>
+   
+    </item>
+    <item id="libros">
+        <es>ACTIVIDADES GRUPALES</es>
+        <en>GROUP ACTIVITIES</en>
+        <por>ACTIVIDES EM GRUPELS</por>
+    </item>
+    <item id="texto_libro">
+        <es>A continuación se muestran las imagenes de las actividades del mes:</es>
+        <en>Below are images of the month's activities:</en>
+        <por>Abaixo seguem imagens das atividades do mês:</por>
+    </item>
+        <item id="mas">
+        <es>Mas información</es>
+        <en>More information</en>
+        <por>Mais informasiòn</por>
+    </item>
+        <item id="info">
+        <es>Mas información</es>
+        <en>More information</en>
+        <por>Mais informasiòn</por>
+    </item>
+</translation>

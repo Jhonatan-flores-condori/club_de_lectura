@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>index.html</link>
+    </item>
+       <item>
+        <nombre>Registro</nombre>
+        <link>registro.html</link>
+    </item>
+    <item>
+        <nombre>Recomendaciones de Libros</nombre>
+        <link>recomendaciones.html</link>
+    </item>
+    <item>
+        <nombre>Agenda de Lecturas</nombre>
+        <link>agenda.html</link>
+    </item>
+    <item>
+        <nombre>Recursos de Lectura</nombre>
+        <link>recursos.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>comunidad.html</link>
+    </item>
+    <item>
+        <nombre>Preguntas Frecuentes</nombre>
+        <link>preguntas.html</link>
+    </item>
+    <item>
+        <nombre>Contacto</nombre>
+        <link>contacto.html</link>
+    </item>
+</menu>

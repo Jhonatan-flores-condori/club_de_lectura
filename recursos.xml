@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="introduccion">
+        <es>DESCARGA DE EBOOKs</es>
+        <en>DOWNLOAD EBOOKs</en>
+        <por>DESCARGÃO EBOOKs</por>
+    </item>
+    <item id="texto_intro">
+        <es>A continuación nuestros Ebooks mas leidos del mes:</es>
+        <en>Below are our most notable Ebooks much reading of the month:</en>
+        <por>Abaixo estão os nossos Ebooks mais notáveis ​​do mês:</por>
+    </item>
+    <item id="beneficio">
+        <es>RESUMENES Y GUIAS</es>
+        <en>SUMMARY AND GUIDES</en>
+        <por>RESUMENS E GUIES</por>
+    </item>
+    <item id="texto_benef">
+        <es>A continuación nuestros resumenes y guias mas destacados del mes:</es>
+        <en>Below are our most notable summary and guides of the month:</en>
+        <por>Abaixo estão os nossos resumens e guies mais notáveis ​​do mês:</por>
+
+    </item>
+    <item id="reglas">
+        <es>PODCAST Y VIDEOS</es>
+        <en>PODCAST AND VIDEOS</en>
+        <por>PODCAST E VIDEO</por>
+    </item>
+    <item id="texto_reglas">
+        <es>A continuación nuestros podcast y videos mas destacados del mes:</es>
+        <en>Below are our most notable podcast and video of the month:</en>
+        <por>Abaixo estão os nossos podcast e video mais notáveis ​​do mês:</por>
+   
+    </item>
+    <item id="libros">
+        <es>TALLERES LITERARIOS</es>
+        <en>LITERARY WORKSHOPS</en>
+        <por>OFICINAS LITERÁRIAS</por>
+    </item>
+    <item id="texto_libro">
+        <es>A continuación nuestros talleres mas destacados del mes:</es>
+        <en>Below are our most notable workshops of the month:</en>
+        <por>Abaixo estão os nossos workshops mais notáveis ​​do mês:</por>
+    </item>
+        <item id="taller1">
+        <es>Como escribir microrelatos</es>
+        <en>How to write short stories</en>
+        <por>Como escrever contos</por>
+    </item>
+        <item id="taller2">
+        <es>Planificar escritura para una novela</es>
+        <en>Planning writing for a novel</en>
+        <por>Planejando escrever um romance</por>
+    </item>
+        <item id="taller3">
+        <es>Creando cuentos navideños</es>
+        <en>Creating Christmas stories</en>
+        <por>Criar histórias de Natal</por>
+    </item>
+</translation>

@@ -1,0 +1,23 @@
+[
+    {
+        "usuario" :"josesito",
+        "contra": "12345",
+        "email":"jose@gmail.com",
+        "genero": "Politica",
+        "Menbresia" :"si"
+    },
+    {
+        "usuario" :"josesito",
+        "contra": "12345",
+        "email":"jose@gmail.com",
+        "genero": "Politica",
+        "Menbresia" :"si"
+    },
+    {
+        "usuario" :"josesito",
+        "contra": "12345",
+        "email":"jose@gmail.com",
+        "genero": "Politica",
+        "Menbresia" :"si"
+    }
+]

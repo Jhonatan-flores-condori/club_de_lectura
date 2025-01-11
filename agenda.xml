@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="introduccion">
+        <es>FECHAS Y HORARIOS</es>
+        <en>DATES AND TIMES</en>
+        <por>DATAS E HORÁRIOS</por>
+    </item>
+    <item id="texto_intro">
+        <es>El horario mensual de las proximas actividades del club</es>
+        <en>The monthly schedule of upcoming club activities</en>
+        <por>A programação mensal das próximas atividades do clube</por>
+    </item>
+    <item id="beneficio">
+        <es>MODERADORES ASIGNADOS</es>
+        <en>ASSIGNED MODERATORS</en>
+        <por>MEMBROS ASIGNATES</por>
+    </item>
+    <item id="texto_benef">
+        <es>Los moderadores mas destacados del club:</es>
+        <en>The most prominent moderators of the club:</en>
+        <por>Les moderates destacates das club:</por>
+    </item>
+    <item id="reglas">
+        <es>DEBATES EN LINEA</es>
+        <en>ONLINE DEBATES</en>
+        <por>DEBATES ON-LINE</por>
+    </item>
+    <item id="texto_reglas">
+        <es>A continuación, los proximos debates del club:</es>
+        <en>Below are the club's upcoming debates:</en>
+        <por>Abaixo seguem proxims das atividades do club:</por>
+   
+    </item>
+    <item id="libros">
+        <es>ACTIVIDADES GRUPALES</es>
+        <en>GROUP ACTIVITIES</en>
+        <por>ACTIVIDES EM GRUPELS</por>
+    </item>
+    <item id="texto_libro">
+        <es>A continuación se muestran las imagenes de las actividades del mes:</es>
+        <en>Below are images of the month's activities:</en>
+        <por>Abaixo seguem imagens das atividades do mês:</por>
+    </item>
+        <item id="mas">
+        <es>Mas información</es>
+        <en>More information</en>
+        <por>Mais informasiòn</por>
+    </item>
+        <item id="info">
+        <es>Mas información</es>
+        <en>More information</en>
+        <por>Mais informasiòn</por>
+    </item>
+</translation>

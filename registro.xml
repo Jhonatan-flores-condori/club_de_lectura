@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+    <item id="introduccion">
+        <es>INSCRIPCION AL CLUB</es>
+        <en>CLUB REGISTRATION</en>
+        <por>INSCRIPCAO DO CLUB</por>
+    </item>
+    <item id="texto_intro">
+        <es>Ingrese sus datos de manera correcta</es>
+        <en>Enter your data correctly</en>
+        <por>Ingresè em dates do manera correcta</por>
+    </item>
+    <item id="beneficio">
+        <es>TABLA MIENBROS DEL CLUB</es>
+        <en>MENBERS OF THE CLUB</en>
+        <por>MIENBERS DO CLUB</por>
+    </item>
+    <item id="texto_benef">
+        <es>Los participantes del club.</es>
+        <en>The menbers for club</en>
+        <por>Mienbers no nosso grupo.</por>
+    </item>
+</translation>

@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"usuario": "jose Lopez",
+		"contra": "12345",
+		"email": "jose@gmail.com",
+		"genero": "Politica",
+		"menbresia": "si"
+	},
+	{
+		"id": 2,
+		"usuario": "Juan Perez",
+		"contra": "12345",
+		"email": "juan@gmail.com",
+		"genero": "Drama",
+		"menbresia": "no"
+	},
+	{
+		"id": 3,
+		"usuario": "Maria Lopez",
+		"contra": "asdop",
+		"email": "maria12@gmail.com",
+		"genero": "ciencia Ficcion",
+		"menbresia": "si"
+	},
+	{
+	"id": 4,
+		"usuario": "Ruben Condori",
+		"contra": "12345",
+		"email": "rubeen@gmail.com",
+		"genero": "Belico",
+		"menbresia": "si"
+	}
+]
